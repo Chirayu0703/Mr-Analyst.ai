@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables / API keys
+.env
+.env.*
+!.env.example
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ChromaDB / local vector database
+chroma_db/
+chroma/
+.chroma/
+
+# Machine learning / model files
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Cache
+.cache/
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local data
+data/
+uploads/
+output/
+
+# Python distribution
+build/
+dist/
+*.egg-info/
+
+# pytest
+.pytest_cache/
+
+# Secrets / credentials
+credentials.json
+service-account.json

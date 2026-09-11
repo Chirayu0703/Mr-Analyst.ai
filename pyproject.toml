@@ -1,0 +1,30 @@
+[project]
+name = "test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Chirayu0703", email = "chirayulokhande02@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.5.9",
+    "google-genai>=2.20.0",
+    "groq>=1.7.0",
+    "openai>=3.5.0",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.5",
+    "pdfplumber>=0.11.10",
+    "python-dotenv>=1.2.3",
+    "sentence-transformers>=6.0.1",
+    "streamlit>=1.63.0",
+    "torchvision>=0.29.0",
+    "xlrd>=2.0.2",
+]
+
+[project.scripts]
+test = "test:main"
+
+[build-system]
+requires = ["uv_build>=0.12.6,<0.13.0"]
+build-backend = "uv_build"
