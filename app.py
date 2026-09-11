@@ -11,9 +11,18 @@ from sentence_transformers import SentenceTransformer
 load_dotenv()
 
 # Connect to Groq
-client = Groq(
-    api_key=os.getenv("GROQ_API_KEY")
-)
+# client = Groq(
+#     api_key=os.getenv("GROQ_API_KEY")
+# )
+load_dotenv()
+
+api_key = os.getenv("GROQ_API_KEY")
+
+if not api_key:
+    api_key = st.secrets["GROQ_API_KEY"]
+
+client = Groq(api_key=api_key)
+
 # Embedding model
 @st.cache_resource
 def load_embedding_model():
