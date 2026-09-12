@@ -968,37 +968,37 @@ User question:
             # SHOW SOURCES
             # =================================
 
-            st.markdown("---")
+        #     st.markdown("---")
 
-            st.subheader(
-                "📚 Sources Used"
-            )
+        #     st.subheader(
+        #         "📚 Sources Used"
+        #     )
 
-            for i, chunk in enumerate(
-                retrieved_chunks
-            ):
+        #     for i, chunk in enumerate(
+        #         retrieved_chunks
+        #     ):
 
-                st.write(
-                    f"### Source {i + 1}"
-                )
+        #         st.write(
+        #             f"### Source {i + 1}"
+        #         )
 
-                st.write(chunk)
+        #         st.write(chunk)
 
 
-                # Get source filename
-                try:
+        #         # Get source filename
+        #         try:
 
-                    source_filename = results[
-                        "metadatas"
-                    ][0][i]["filename"]
+        #             source_filename = results[
+        #                 "metadatas"
+        #             ][0][i]["filename"]
 
-                    st.caption(
-                        f"Source: {source_filename}"
-                    )
+        #             st.caption(
+        #                 f"Source: {source_filename}"
+        #             )
 
-                except:
+        #         except:
 
-                    pass
+        #             pass
 
 
         except Exception as e:
