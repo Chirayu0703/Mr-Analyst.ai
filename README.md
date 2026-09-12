@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Demo:** [Add your Streamlit demo link here](https://mr-analyst.streamlit.app/)
+🔗 **Demo:** [mr-analyst](https://mr-analyst.streamlit.app/)
 
 ---
 
@@ -14,15 +14,25 @@
 
 ### 🏠 Main Interface
 
-![MR Analyst Interface](screenshots/home.png)
+<img width="1358" height="875" alt="MR Analyst Interface" src="https://github.com/user-attachments/assets/3f6290c1-fe2f-45f4-975f-276d1098d9f6" />
+<img width="1277" height="475" alt="Screenshot 2026-09-12 132757" src="https://github.com/user-attachments/assets/b5224835-5c87-475c-bcd1-33787f9cf8ca" />
+
+
+
 
 ### 📂 File Upload
 
-![File Upload](screenshots/upload.png)
+<img width="1302" height="303" alt="Screenshot 2026-09-12 133257" src="https://github.com/user-attachments/assets/4099a1f0-9c11-4fac-862f-ce89e3297531" />
 
-### 🔎 AI Data Analysis
 
-![AI Analysis](screenshots/analysis.png)
+### 🔎 AI Embedding Process
+
+<img width="1318" height="532" alt="Screenshot 2026-09-12 133436" src="https://github.com/user-attachments/assets/178d428c-c8da-4806-b19c-5ff74db49ed2" />
+
+### 🔎 Top 3 Retrieved Chunks
+
+<img width="1310" height="355" alt="Screenshot 2026-09-12 133838" src="https://github.com/user-attachments/assets/3e9763fe-a8e1-4160-9a03-c7d3cf0af7d1" />
+<img width="1287" height="882" alt="Screenshot 2026-09-12 133945" src="https://github.com/user-attachments/assets/b0091c2a-5564-48aa-a316-e9efcc06ba13" />
 
 ### 🤖 AI Response
 
