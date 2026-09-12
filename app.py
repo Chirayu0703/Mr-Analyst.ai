@@ -514,12 +514,12 @@ if st.button("Ask AI"):
         # Step 3: Show retrieved data
         # -----------------------------
 
-        st.subheader("Retrieved Context")
+        # st.subheader("Retrieved Context")
 
-        for i, chunk in enumerate(retrieved_chunks):
+        # for i, chunk in enumerate(retrieved_chunks):
 
-            st.write(f"### Chunk {i + 1}")
-            st.write(chunk)
+        #     st.write(f"### Chunk {i + 1}")
+        #     st.write(chunk)
 
         # -----------------------------
         # Step 4: Call Groq
