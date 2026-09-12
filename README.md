@@ -36,15 +36,16 @@
 
 ### 🤖 AI Response
 
-![AI Response](screenshots/ai-response.png)
-
-### 🧠 One-Click AI Analyst
-
-![One-Click AI Analyst](screenshots/one-click.png)
+<img width="1318" height="455" alt="Screenshot 2026-09-12 140918" src="https://github.com/user-attachments/assets/0e1ed640-6de4-499b-9b49-6428671835a0" />
 
 ### 🗄️ SQL Generator
 
-![SQL Generator](screenshots/sql-generator.png)
+<img width="1302" height="692" alt="Screenshot 2026-09-12 141446" src="https://github.com/user-attachments/assets/f252bb94-6410-462a-a649-703e3b7a036b" />
+
+
+### 🧠 One-Click AI Analyst
+
+<img width="1297" height="853" alt="Screenshot 2026-09-12 141215" src="https://github.com/user-attachments/assets/9ca1d89c-789c-4657-856f-6af82de43b53" />
 
 ---
 
