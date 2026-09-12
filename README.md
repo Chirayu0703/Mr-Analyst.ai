@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Demo:** [Add your Streamlit demo link here]([DEMO_LINK](https://mr-analyst.streamlit.app/))
+🔗 **Demo:** [Add your Streamlit demo link here](https://mr-analyst.streamlit.app/)
 
 ---
 
